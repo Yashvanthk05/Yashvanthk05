@@ -14,24 +14,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 🤝 I’m looking for help with **Web-App Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yashvanthk05](https://github.com/Yashvanthk05)
-
-- 💬 Ask me about **ReactJS,NextJS,Databases**
-
-- 📫 How to reach me **yashvanthk05@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Yashvanthk05](https://github.com/Yashvanthk05)
-
-- ⚡ Fun fact **I Like to create Single Page Web Works**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
