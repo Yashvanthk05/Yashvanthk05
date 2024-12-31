@@ -1,4 +1,4 @@
-<a href="https://sreecha.io"><img src="./assets/gitpfp.png"></a>
+<a href="https://yashvanth.vercel.app"><img src="./assets/gitpfp.png"></a>
 
 ---
 ```yaml
