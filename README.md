@@ -6,7 +6,7 @@
 ... .. -- .--. .-.. .. -.-. .. - -.--   .. ...   - .... .   ... --- ..- .-..   --- ..-.   . ..-. ..-. .. -.-. .. . -. -.-. -.--
 ```
 
-**Portfolio:**  [yashix.me](href:http://yashix.me/yashix)
+**Portfolio:**  [yashix.me](http://yashix.me/yashix)
 > *"Good things come to those who collaborate."* 
 
 ```
