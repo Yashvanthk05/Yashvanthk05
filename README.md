@@ -6,9 +6,11 @@
 ... .. -- .--. .-.. .. -.-. .. - -.--   .. ...   - .... .   ... --- ..- .-..   --- ..-.   . ..-. ..-. .. -.-. .. . -. -.-. -.--
 ```
 
+**Portfolio:**  [yashix.me](href:http://yashix.me/yashix)
+> *"Good things come to those who collaborate."* 
 
 ```
 I'm always open to new ideas, collaborations, and learning opportunities. Feel free to reach out to me:
 ```
 **Mail to:**  [yashvanthk05@gmail.com](mailto:yashvanthk05@gmail.com)
-> *"Good things come to those who collaborate."* 🚀
+> *"Good things come to those who collaborate."* 
