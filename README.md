@@ -1,4 +1,4 @@
-<a href="https://yashvanth.vercel.app"><img src="./assets/gitpfp.png"></a>
+<a href="http://yashix.me/yashix"><img src="./assets/gitpfp.png"></a>
 
 ---
 
